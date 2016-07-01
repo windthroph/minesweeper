@@ -22,10 +22,10 @@ Once Java is downloaded on your machine you can compile the three Java files usi
 ![loadgame](https://cloud.githubusercontent.com/assets/18745018/16509340/442de59e-3f01-11e6-98d2-4ede4e667c1c.png)
 
 ## Notes 
-We used three different classes. The SingleButton class represents a single button on a multidimensional array. The second class, BoardUI, does everything that involves running the game. The minesweeper class is our main class that starts a new game, saves games, loads games. 
+We used three different classes. The SingleButton class represents a single button on a multidimensional array. The second class, BoardUI, does everything that involves running the game. The minesweeper class is our main class which starts a new game, saves games, and loads games. 
 
 ## Reflections 
-We had issues with making the program open up the surrounding zero spaces when a zero space was pressed. I was able to figure this out by using recursion. A current problem with the prograsm is that the timer does not work when a game is saved. In future versions, I think it would be nice to be able to change the size of the grid.
+We had issues with making the program open up the surrounding zero spaces when a zero space was pressed. I was able to figure this out by using recursion. A current problem with the program is that the timer does not work when a game is saved. In future versions, I think it would also be nice to be able to change the size of the grid.
 
 ## Contributors
 Eric Whatley, Wayne Myhre, Aaron Rudolph, and Krystyn Gatewood helped make and design this project.
